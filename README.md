@@ -5,6 +5,8 @@
 **Status:** Defensive Publication — Conceptual Architectural Framework  
 **Purpose:** Establish prior art across all conceptual primitives in the governance‑layer lineage.
 
+Defensive Purpose Statement  
+This publication is submitted as Non‑Patent Literature (NPL) to establish prior art for the governance‑layer conceptual substrate and to prevent derivative, adjacent, or re‑expressed conceptual claims from being patented. It is intended for patent examiners, regulatory bodies, and conceptual research communities.
 ---
 
 ## 1. Scope of Conceptual Disclosure
@@ -293,6 +295,11 @@ federated conceptual scoring
 hardware‑accelerated governance layers
 
 This mapping preserves continuity of prior art across the full lineage.
+
+
+Portfolio Integration Clause  
+This Unified Conceptual Defensive Publication (UCDP) is part of the broader governance‑layer family, including the Compliance‑Layer OS, Agentic Governance Layer, Telemetry State‑Machine Primitive, and the White Box Claim Appendix (Cycle Hits + Hits History). Together, these publications define the unified conceptual substrate for the governance‑layer lineage.
+
 
 14. Invitation to Collaboration
 Organizations exploring:
